@@ -32,4 +32,5 @@ A Python-based command-line application for stress assessment and management thr
 5. Check scoring accuracy with known test cases
 
 ## Screenshots
-Refer to the `/screenshots` directory for application demonstration images.
+
+Refer to the screenshots for application demonstration images.
